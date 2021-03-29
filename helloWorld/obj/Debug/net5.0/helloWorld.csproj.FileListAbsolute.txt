@@ -1,0 +1,16 @@
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\bin\Debug\net5.0\helloWorld.exe
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\bin\Debug\net5.0\helloWorld.deps.json
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\bin\Debug\net5.0\helloWorld.runtimeconfig.json
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\bin\Debug\net5.0\helloWorld.runtimeconfig.dev.json
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\bin\Debug\net5.0\helloWorld.dll
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\bin\Debug\net5.0\ref\helloWorld.dll
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\bin\Debug\net5.0\helloWorld.pdb
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\obj\Debug\net5.0\helloWorld.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\obj\Debug\net5.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\obj\Debug\net5.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\obj\Debug\net5.0\helloWorld.AssemblyInfo.cs
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\obj\Debug\net5.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\obj\Debug\net5.0\helloWorld.dll
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\obj\Debug\net5.0\ref\helloWorld.dll
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\obj\Debug\net5.0\helloWorld.pdb
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\helloWorld\obj\Debug\net5.0\helloWorld.genruntimeconfig.cache

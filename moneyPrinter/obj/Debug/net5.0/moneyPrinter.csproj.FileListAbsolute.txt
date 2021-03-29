@@ -1,0 +1,16 @@
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\bin\Debug\net5.0\moneyPrinter.exe
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\bin\Debug\net5.0\moneyPrinter.deps.json
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\bin\Debug\net5.0\moneyPrinter.runtimeconfig.json
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\bin\Debug\net5.0\moneyPrinter.runtimeconfig.dev.json
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\bin\Debug\net5.0\moneyPrinter.dll
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\bin\Debug\net5.0\ref\moneyPrinter.dll
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\bin\Debug\net5.0\moneyPrinter.pdb
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\obj\Debug\net5.0\moneyPrinter.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\obj\Debug\net5.0\moneyPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\obj\Debug\net5.0\moneyPrinter.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\obj\Debug\net5.0\moneyPrinter.AssemblyInfo.cs
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\obj\Debug\net5.0\moneyPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\obj\Debug\net5.0\moneyPrinter.dll
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\obj\Debug\net5.0\ref\moneyPrinter.dll
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\obj\Debug\net5.0\moneyPrinter.pdb
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\moneyPrinter\obj\Debug\net5.0\moneyPrinter.genruntimeconfig.cache
