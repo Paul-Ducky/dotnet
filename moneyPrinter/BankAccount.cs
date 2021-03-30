@@ -32,7 +32,6 @@ namespace moneyPrinter
                 {
                     balance -= amount; 
                     Console.WriteLine("We're sorry to see you go");
-                    
                 }
             }
             else
@@ -43,10 +42,10 @@ namespace moneyPrinter
             
         }
 
-        public BankAccount(Client _client,string _type, double initialBalance)
+        public BankAccount(Client client,string type, double initialBalance)
         {
-            client = _client;
-            type = _type;
+            this.client = client;
+            this.type = type;
             balance = initialBalance;
         }
     }
