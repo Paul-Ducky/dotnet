@@ -5,7 +5,7 @@
 }
 
 
-<table class="table">
+<table class="table table-dark table-hover">
     <thead>
     <tr>
         <th>Class</th>
@@ -19,16 +19,18 @@
         <tr><td>@group.Name</td>
             <td>@group.Subject</td>
             <td>@group.Teacher.Name</td>
-            <td>@for (var i = 0; i < @group.Students.Count; i++)
-                {
-                    foreach (Student student in @group.Students)
+            <td>@foreach (Student student in @group.Students)
                     {
-                        if (@student.ClassId == i)
+                        if (@student.ClassId %2 == 0 )
                         {
                             @student.Name  <br/>
                         }
+                        if (@student.ClassId %2 != 0)
+                        {
+                            @student.Name <br/>
+                        }
                     }  
-                }
+                
             </td>
         </tr>
     }

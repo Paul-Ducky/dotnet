@@ -34,7 +34,6 @@ namespace ontheweb.Models
             _classId = classId;
         }
         
-        public static string Message { get; set; } = "In page model: ";
         
         public static string[] Names =
         {
@@ -44,7 +43,7 @@ namespace ontheweb.Models
         public static List<Student> CreateStudents()
         {
             List<Student> students = new List<Student>();
-            for (uint i = 1; i < Names.Length; i++)
+            for (uint i = 0; i < Names.Length; i++)
             {
                 if (i % 2 == 0)
                 {

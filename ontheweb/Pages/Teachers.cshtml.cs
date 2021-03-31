@@ -17,7 +17,7 @@ namespace ontheweb.Pages
         {
             _koen = new Teacher("Koen", 1, 1);
             _tim = new Teacher("Tim", 2, 2);
-            Teachers = new List<Teacher>(){_koen,_tim};
+            Teachers = new List<Teacher>(){ _koen, _tim };
         }
     }
 }

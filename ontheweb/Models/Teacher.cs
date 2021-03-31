@@ -30,6 +30,5 @@
             _id = id;
             _classId = classId;
         }
-        
     }
 }

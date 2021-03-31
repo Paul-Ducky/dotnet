@@ -5,7 +5,7 @@
 }
 
 
-<table class="table">
+<table class="table table-dark table-hover">
     <thead>
     <tr>
         <th>Name</th>
@@ -13,7 +13,7 @@
         <th>ClassID</th>
     </tr>
     </thead>
-    @foreach (Student student in @Model.StudentList)
+    @foreach (Student student in Model.StudentList)
     {
         <tr>
             <td><p>@student.Name</p></td>
