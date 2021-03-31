@@ -44,7 +44,7 @@ namespace ontheweb.Models
         public static List<Student> CreateStudents()
         {
             List<Student> students = new List<Student>();
-            for (uint i = 0; i < 10; i++)
+            for (uint i = 1; i < Names.Length; i++)
             {
                 if (i % 2 == 0)
                 {
