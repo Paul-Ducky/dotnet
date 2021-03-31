@@ -38,4 +38,6 @@ C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\ontheweb\obj\Debug\net5.0
 C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\ontheweb\obj\Debug\net5.0\ontheweb.pdb
 C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\ontheweb\obj\Debug\net5.0\ontheweb.genruntimeconfig.cache
 C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\ontheweb\obj\Debug\net5.0\ontheweb.csproj.CopyComplete
-C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\ontheweb\obj\Debug\net5.0\Razor\Pages\HellowWeb.cshtml.g.cs
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\ontheweb\obj\Debug\net5.0\Razor\Pages\Classes.cshtml.g.cs
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\ontheweb\obj\Debug\net5.0\Razor\Pages\Students.cshtml.g.cs
+C:\Users\Paul\Desktop\BECODE\becode-the-journey\dotnet\ontheweb\obj\Debug\net5.0\Razor\Pages\Teachers.cshtml.g.cs

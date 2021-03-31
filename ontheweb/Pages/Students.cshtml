@@ -1,0 +1,24 @@
+﻿@page
+@using ontheweb.Models
+@model StudentsModel
+@{
+}
+
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>StudentID</th>
+        <th>ClassID</th>
+    </tr>
+    </thead>
+    @foreach (Student student in @Model.StudentList)
+    {
+        <tr>
+            <td><p>@student.Name</p></td>
+            <td><p>@student.Id</p></td>
+            <td><p>@student.ClassId</p></td>
+        </tr>
+    }
+</table>

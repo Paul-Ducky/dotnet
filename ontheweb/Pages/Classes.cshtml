@@ -1,0 +1,35 @@
+﻿@page
+@using ontheweb.Models
+@model ClassesModel
+@{
+}
+
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Class</th>
+        <th>Subject</th>
+        <th>Teacher</th>
+        <th>Students</th>
+    </tr>
+    </thead>
+    @foreach (Classroom group in @Model.Classrooms)
+    {
+        <tr><td>@group.Name</td>
+            <td>@group.Subject</td>
+            <td>@group.Teacher.Name</td>
+            <td>@for (var i = 0; i < @group.Students.Count; i++)
+                {
+                    foreach (Student student in @group.Students)
+                    {
+                        if (@student.ClassId == i)
+                        {
+                            @student.Name  <br/>
+                        }
+                    }  
+                }
+            </td>
+        </tr>
+    }
+</table>
